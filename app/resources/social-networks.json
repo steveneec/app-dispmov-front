@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/soyestib",
+        "icon": "logo-twitch",
+        "color": "#5D3587"
+    },
+    {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/steven-erraez-calder%C3%B3n-912505124/",
+        "icon": "logo-linkedin",
+        "color": "#11009E"
+    },
+    {
+        "name": "Github",
+        "url": "https://github.com/steveneec",
+        "icon": "logo-github",
+        "color": "#191919"
+    },
+    {
+        "name":"Reddit",
+        "url": "https://www.reddit.com/user/steveneec/",
+        "icon": "logo-reddit",
+        "color": "#ff5722"
+    },
+    {
+        "name": "Steam",
+        "url": "https://steamcommunity.com/id/bootlegsteve/",
+        "icon": "logo-steam",
+        "color": "#455a64"
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "colors": {
+        "ripple": "#E8E2E2",
+        "text-primary": "#2B2730",
+        "text-secondary": "#393646",
+        "primary": "#42a5f5",
+        "primary-accent": "#2196f3",
+        "accent": "#D61355",
+        "cancel": "#ef5350",
+        "cancel-accent": "##f44336"
+    },
+    "colors-list": [
+        "#ef5350",
+        "#ec407a",
+        "#ab47bc",
+        "#7e57c2",
+        "#5c6bc0",
+        "#42a5f5",
+        "#42a5f5",
+        "#26c6da",
+        "#26a69a",
+        "#66bb6a"
+    ]
+}
